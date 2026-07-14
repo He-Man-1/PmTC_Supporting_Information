@@ -1,0 +1,585 @@
+crystal structure of protac ms67 in complex with the wd repeat-         containing protein 5 and pvhl:elonginc:elonginb                      
+  MOLSOFT 10152410322D
+
+ 73 79  0  0  1  0  0  0  0  0999 V2000
+   19.7452    9.2998    0.0000 N   0  0  0
+   20.9577    8.5998    0.0000 C   0  0  0
+   13.6831    2.9998    0.0000 O   0  0  0
+   19.7452   10.6998    0.0000 C   0  0  2
+   13.6831    7.1998    0.0000 C   0  0  0
+   14.8955    6.4998    0.0000 C   0  0  0
+   13.6830    4.3998    0.0000 C   0  0  0
+   12.4706    5.0998    0.0000 C   0  0  0
+   12.4706    6.4998    0.0000 C   0  0  0
+   11.2582    7.1998    0.0000 C   0  0  0
+   13.6830   11.3998    0.0000 C   0  0  0
+   13.6830   12.7998    0.0000 C   0  0  0
+   12.4706   13.4998    0.0000 C   0  0  0
+   11.2582   12.7998    0.0000 C   0  0  0
+   20.9577   11.3998    0.0000 C   0  0  0
+   10.0457   13.4998    0.0000 C   0  0  0
+    8.8333   12.7998    0.0000 C   0  0  0
+    7.6209   10.6998    0.0000 C   0  0  0
+    7.6209    9.2998    0.0000 C   0  0  0
+    6.4084    7.1998    0.0000 C   0  0  1
+    7.6209    6.4998    0.0000 C   0  0  0
+    8.3209    7.7123    0.0000 C   0  0  0
+    6.9209    5.2874    0.0000 C   0  0  0
+    8.8333    5.7998    0.0000 C   0  0  0
+    5.1960    6.4998    0.0000 C   0  0  0
+   18.5328   11.3998    0.0000 C   0  0  0
+    4.0634    4.2769    0.0000 C   0  0  2
+    2.7319    4.7096    0.0000 C   0  0  0
+    0.3600    4.2054    0.0000 C   0  0  1
+    0.0689    5.5748    0.0000 C   0  0  0
+   -0.6804    3.2686    0.0000 C   0  0  0
+   -0.3893    1.8992    0.0000 C   0  0  0
+   -1.4297    0.9624    0.0000 C   0  0  0
+   -2.7612    1.3951    0.0000 C   0  0  0
+   -3.8016    0.4583    0.0000 C   0  0  0
+   -3.6553   -0.9340    0.0000 C   0  0  0
+   18.5328    8.5998    0.0000 C   0  0  1
+   -2.4428   -1.6340    0.0000 C   0  0  0
+   -5.8710   -0.4631    0.0000 C   0  0  0
+   -3.0523    2.7645    0.0000 C   0  0  0
+   -2.0119    3.7013    0.0000 C   0  0  0
+    4.4960    2.9455    0.0000 C   0  0  0
+    5.8960    2.9455    0.0000 C   0  0  2
+    6.3286    4.2769    0.0000 C   0  0  0
+   10.0457   14.8998    0.0000 C   0  0  0
+   11.2582   15.5998    0.0000 C   0  0  0
+   12.4706   14.8998    0.0000 C   0  0  0
+   18.5328    7.1998    0.0000 C   0  0  0
+   14.8955   13.4998    0.0000 C   0  0  0
+   16.1079   12.7998    0.0000 C   0  0  0
+   17.3204    9.2998    0.0000 C   0  0  0
+   16.1079   11.3998    0.0000 C   0  0  0
+   14.8955   10.6998    0.0000 C   0  0  0
+   13.6830    8.5998    0.0000 C   0  0  0
+   10.5582    5.9874    0.0000 F   0  0  0
+   11.9582    8.4123    0.0000 F   0  0  0
+   10.0457    7.8998    0.0000 F   0  0  0
+   13.6830   15.5998    0.0000 F   0  0  0
+   17.3204   10.6998    0.0000 N   0  0  0
+   14.8955    9.2998    0.0000 N   0  0  0
+   14.8955    5.0998    0.0000 N   0  0  0
+    8.8333   11.3998    0.0000 N   0  0  0
+    6.4084    8.5998    0.0000 N   0  0  0
+    5.1960    5.0998    0.0000 N   0  0  0
+    1.6915    3.7728    0.0000 N   0  0  0
+   -4.9342   -1.5035    0.0000 N   0  0  0
+   12.4706    9.2998    0.0000 O   0  0  0
+    2.4408    6.0790    0.0000 O   0  0  0
+    6.7189    1.8128    0.0000 O   0  0  0
+    3.9836    7.1998    0.0000 O   0  0  0
+    8.8333    8.5998    0.0000 O   0  0  0
+    7.6209   13.4998    0.0000 O   0  0  0
+   -5.1710    0.7494    0.0000 S   0  0  0
+  1  2  1
+ 37  1  1
+  4  1  1
+  3  7  2
+  4 15  1  1  0
+  4 26  1
+  5 54  1
+  5  6  2
+  5  9  1
+  6 61  1
+  7  8  1
+  7 61  1
+  8  9  2
+  9 10  1
+ 10 55  1
+ 10 56  1
+ 10 57  1
+ 11 12  1
+ 11 53  2
+ 12 49  2
+ 12 13  1
+ 13 47  1
+ 13 14  2
+ 14 16  1
+ 16 45  2
+ 16 17  1
+ 17 72  2
+ 17 62  1
+ 18 62  1
+ 18 19  1
+ 19 71  2
+ 19 63  1
+ 20 63  1
+ 20 21  1  1  0
+ 20 25  1
+ 21 22  1
+ 21 23  1
+ 21 24  1
+ 25 70  2
+ 25 64  1
+ 26 59  1
+ 27 64  1
+ 27 42  1
+ 27 28  1  1  0
+ 28 68  2
+ 28 65  1
+ 29 65  1
+ 29 30  1  6  0
+ 29 31  1
+ 31 41  2
+ 31 32  1
+ 32 33  2
+ 33 34  1
+ 34 40  2
+ 34 35  1
+ 35 73  1
+ 35 36  2
+ 36 38  1
+ 36 66  1
+ 37 51  1
+ 37 48  1  1  0
+ 39 66  2
+ 39 73  1
+ 40 41  1
+ 43 42  1
+ 43 44  1
+ 43 69  1  6  0
+ 44 64  1
+ 45 46  1
+ 46 47  2
+ 47 58  1
+ 49 50  1
+ 50 52  2
+ 51 59  1
+ 52 59  1
+ 52 53  1
+ 53 60  1
+ 54 60  1
+ 54 67  2
+M  ZZC   1 n
+M  ZZC   2 c
+M  ZZC   3 o
+M  ZZC   4 c1
+M  ZZC   5 c10
+M  ZZC   6 c11
+M  ZZC   7 c12
+M  ZZC   8 c13
+M  ZZC   9 c14
+M  ZZC  10 c15
+M  ZZC  11 c16
+M  ZZC  12 c17
+M  ZZC  13 c18
+M  ZZC  14 c19
+M  ZZC  15 c2
+M  ZZC  16 c20
+M  ZZC  17 c21
+M  ZZC  18 c22
+M  ZZC  19 c23
+M  ZZC  20 c24
+M  ZZC  21 c25
+M  ZZC  22 c26
+M  ZZC  23 c27
+M  ZZC  24 c28
+M  ZZC  25 c29
+M  ZZC  26 c3
+M  ZZC  27 c30
+M  ZZC  28 c31
+M  ZZC  29 c32
+M  ZZC  30 c33
+M  ZZC  31 c34
+M  ZZC  32 c35
+M  ZZC  33 c36
+M  ZZC  34 c37
+M  ZZC  35 c38
+M  ZZC  36 c39
+M  ZZC  37 c4
+M  ZZC  38 c40
+M  ZZC  39 c41
+M  ZZC  40 c42
+M  ZZC  41 c43
+M  ZZC  42 c44
+M  ZZC  43 c45
+M  ZZC  44 c46
+M  ZZC  45 c47
+M  ZZC  46 c48
+M  ZZC  47 c49
+M  ZZC  48 c5
+M  ZZC  49 c50
+M  ZZC  50 c51
+M  ZZC  51 c6
+M  ZZC  52 c7
+M  ZZC  53 c8
+M  ZZC  54 c9
+M  ZZC  55 f
+M  ZZC  56 f1
+M  ZZC  57 f2
+M  ZZC  58 f3
+M  ZZC  59 n1
+M  ZZC  60 n2
+M  ZZC  61 n3
+M  ZZC  62 n4
+M  ZZC  63 n5
+M  ZZC  64 n6
+M  ZZC  65 n7
+M  ZZC  66 n8
+M  ZZC  67 o1
+M  ZZC  68 o2
+M  ZZC  69 o3
+M  ZZC  70 o4
+M  ZZC  71 o5
+M  ZZC  72 o6
+M  ZZC  73 s
+M  ZZA   1 a
+M  ZZA   2 a
+M  ZZA   3 a
+M  ZZA   4 a
+M  ZZA   5 a
+M  ZZA   6 a
+M  ZZA   7 a
+M  ZZA   8 a
+M  ZZA   9 a
+M  ZZA  10 a
+M  ZZA  11 a
+M  ZZA  12 a
+M  ZZA  13 a
+M  ZZA  14 a
+M  ZZA  15 a
+M  ZZA  16 a
+M  ZZA  17 a
+M  ZZA  18 a
+M  ZZA  19 a
+M  ZZA  20 a
+M  ZZA  21 a
+M  ZZA  22 a
+M  ZZA  23 a
+M  ZZA  24 a
+M  ZZA  25 a
+M  ZZA  26 a
+M  ZZA  27 a
+M  ZZA  28 a
+M  ZZA  29 a
+M  ZZA  30 a
+M  ZZA  31 a
+M  ZZA  32 a
+M  ZZA  33 a
+M  ZZA  34 a
+M  ZZA  35 a
+M  ZZA  36 a
+M  ZZA  37 a
+M  ZZA  38 a
+M  ZZA  39 a
+M  ZZA  40 a
+M  ZZA  41 a
+M  ZZA  42 a
+M  ZZA  43 a
+M  ZZA  44 a
+M  ZZA  45 a
+M  ZZA  46 a
+M  ZZA  47 a
+M  ZZA  48 a
+M  ZZA  49 a
+M  ZZA  50 a
+M  ZZA  51 a
+M  ZZA  52 a
+M  ZZA  53 a
+M  ZZA  54 a
+M  ZZA  55 a
+M  ZZA  56 a
+M  ZZA  57 a
+M  ZZA  58 a
+M  ZZA  59 a
+M  ZZA  60 a
+M  ZZA  61 a
+M  ZZA  62 a
+M  ZZA  63 a
+M  ZZA  64 a
+M  ZZA  65 a
+M  ZZA  66 a
+M  ZZA  67 a
+M  ZZA  68 a
+M  ZZA  69 a
+M  ZZA  70 a
+M  ZZA  71 a
+M  ZZA  72 a
+M  ZZA  73 a
+M  ZZO   1 1.000000
+M  ZZO   2 1.000000
+M  ZZO   3 1.000000
+M  ZZO   4 1.000000
+M  ZZO   5 1.000000
+M  ZZO   6 1.000000
+M  ZZO   7 1.000000
+M  ZZO   8 1.000000
+M  ZZO   9 1.000000
+M  ZZO  10 1.000000
+M  ZZO  11 1.000000
+M  ZZO  12 1.000000
+M  ZZO  13 1.000000
+M  ZZO  14 1.000000
+M  ZZO  15 1.000000
+M  ZZO  16 1.000000
+M  ZZO  17 1.000000
+M  ZZO  18 1.000000
+M  ZZO  19 1.000000
+M  ZZO  20 1.000000
+M  ZZO  21 1.000000
+M  ZZO  22 1.000000
+M  ZZO  23 1.000000
+M  ZZO  24 1.000000
+M  ZZO  25 1.000000
+M  ZZO  26 1.000000
+M  ZZO  27 1.000000
+M  ZZO  28 1.000000
+M  ZZO  29 1.000000
+M  ZZO  30 1.000000
+M  ZZO  31 1.000000
+M  ZZO  32 1.000000
+M  ZZO  33 1.000000
+M  ZZO  34 1.000000
+M  ZZO  35 1.000000
+M  ZZO  36 1.000000
+M  ZZO  37 1.000000
+M  ZZO  38 1.000000
+M  ZZO  39 1.000000
+M  ZZO  40 1.000000
+M  ZZO  41 1.000000
+M  ZZO  42 1.000000
+M  ZZO  43 1.000000
+M  ZZO  44 1.000000
+M  ZZO  45 1.000000
+M  ZZO  46 1.000000
+M  ZZO  47 1.000000
+M  ZZO  48 1.000000
+M  ZZO  49 1.000000
+M  ZZO  50 1.000000
+M  ZZO  51 1.000000
+M  ZZO  52 1.000000
+M  ZZO  53 1.000000
+M  ZZO  54 1.000000
+M  ZZO  55 1.000000
+M  ZZO  56 1.000000
+M  ZZO  57 1.000000
+M  ZZO  58 1.000000
+M  ZZO  59 1.000000
+M  ZZO  60 1.000000
+M  ZZO  61 1.000000
+M  ZZO  62 1.000000
+M  ZZO  63 1.000000
+M  ZZO  64 1.000000
+M  ZZO  65 1.000000
+M  ZZO  66 1.000000
+M  ZZO  67 1.000000
+M  ZZO  68 1.000000
+M  ZZO  69 1.000000
+M  ZZO  70 1.000000
+M  ZZO  71 1.000000
+M  ZZO  72 1.000000
+M  ZZO  73 1.000000
+M  ZZM   1 8
+M  ZZI   1 216
+M  ZZM   2 1
+M  ZZI   2 111
+M  ZZM   3 7
+M  ZZI   3 81
+M  ZZM   4 1
+M  ZZI   4 113
+M  ZZM   5 2
+M  ZZI   5 120
+M  ZZM   6 2
+M  ZZI   6 120
+M  ZZM   7 3
+M  ZZI   7 121
+M  ZZM   8 2
+M  ZZI   8 120
+M  ZZM   9 2
+M  ZZI   9 120
+M  ZZM  10 1
+M  ZZI  10 115
+M  ZZM  11 37
+M  ZZI  11 125
+M  ZZM  12 37
+M  ZZI  12 124
+M  ZZM  13 37
+M  ZZI  13 124
+M  ZZM  14 37
+M  ZZI  14 125
+M  ZZM  15 1
+M  ZZI  15 111
+M  ZZM  16 37
+M  ZZI  16 124
+M  ZZM  17 3
+M  ZZI  17 121
+M  ZZM  18 1
+M  ZZI  18 112
+M  ZZM  19 3
+M  ZZI  19 121
+M  ZZM  20 1
+M  ZZI  20 113
+M  ZZM  21 1
+M  ZZI  21 115
+M  ZZM  22 1
+M  ZZI  22 111
+M  ZZM  23 1
+M  ZZI  23 111
+M  ZZM  24 1
+M  ZZI  24 111
+M  ZZM  25 3
+M  ZZI  25 121
+M  ZZM  26 1
+M  ZZI  26 112
+M  ZZM  27 1
+M  ZZI  27 113
+M  ZZM  28 3
+M  ZZI  28 121
+M  ZZM  29 1
+M  ZZI  29 113
+M  ZZM  30 1
+M  ZZI  30 111
+M  ZZM  31 37
+M  ZZI  31 124
+M  ZZM  32 37
+M  ZZI  32 125
+M  ZZM  33 37
+M  ZZI  33 125
+M  ZZM  34 37
+M  ZZI  34 124
+M  ZZM  35 63
+M  ZZI  35 104
+M  ZZM  36 64
+M  ZZI  36 105
+M  ZZM  37 1
+M  ZZI  37 113
+M  ZZM  38 1
+M  ZZI  38 111
+M  ZZM  39 63
+M  ZZI  39 104
+M  ZZM  40 37
+M  ZZI  40 125
+M  ZZM  41 37
+M  ZZI  41 125
+M  ZZM  42 1
+M  ZZI  42 112
+M  ZZM  43 1
+M  ZZI  43 113
+M  ZZM  44 1
+M  ZZI  44 112
+M  ZZM  45 37
+M  ZZI  45 125
+M  ZZM  46 37
+M  ZZI  46 125
+M  ZZM  47 37
+M  ZZI  47 124
+M  ZZM  48 1
+M  ZZI  48 111
+M  ZZM  49 37
+M  ZZI  49 125
+M  ZZM  50 37
+M  ZZI  50 125
+M  ZZM  51 1
+M  ZZI  51 112
+M  ZZM  52 37
+M  ZZI  52 124
+M  ZZM  53 37
+M  ZZI  53 124
+M  ZZM  54 3
+M  ZZI  54 121
+M  ZZM  55 11
+M  ZZI  55 90
+M  ZZM  56 11
+M  ZZI  56 90
+M  ZZM  57 11
+M  ZZI  57 90
+M  ZZM  58 11
+M  ZZI  58 90
+M  ZZM  59 40
+M  ZZI  59 193
+M  ZZM  60 10
+M  ZZI  60 191
+M  ZZM  61 10
+M  ZZI  61 191
+M  ZZM  62 10
+M  ZZI  62 211
+M  ZZM  63 10
+M  ZZI  63 211
+M  ZZM  64 10
+M  ZZI  64 192
+M  ZZM  65 10
+M  ZZI  65 211
+M  ZZM  66 66
+M  ZZI  66 222
+M  ZZM  67 7
+M  ZZI  67 81
+M  ZZM  68 7
+M  ZZI  68 81
+M  ZZM  69 6
+M  ZZI  69 60
+M  ZZM  70 7
+M  ZZI  70 81
+M  ZZM  71 7
+M  ZZI  71 81
+M  ZZM  72 7
+M  ZZI  72 81
+M  ZZM  73 44
+M  ZZI  73 248
+M  ZZQ   1 -0.810000
+M  ZZQ   2 0.270000
+M  ZZQ   3 -0.570000
+M  ZZQ   4 0.270000
+M  ZZQ   5 0.014000
+M  ZZQ   6 0.109000
+M  ZZQ   7 0.616000
+M  ZZQ   8 0.014000
+M  ZZQ   9 -0.138000
+M  ZZQ  10 1.158000
+M  ZZQ  16 0.086000
+M  ZZQ  17 0.544000
+M  ZZQ  18 0.361000
+M  ZZQ  19 0.569000
+M  ZZQ  20 0.361000
+M  ZZQ  25 0.569000
+M  ZZQ  26 0.369000
+M  ZZQ  27 0.361000
+M  ZZQ  28 0.569000
+M  ZZQ  29 0.444000
+M  ZZQ  31 -0.144000
+M  ZZQ  34 0.053000
+M  ZZQ  35 -0.013000
+M  ZZQ  36 0.046000
+M  ZZQ  37 0.270000
+M  ZZQ  38 0.181000
+M  ZZQ  39 0.378000
+M  ZZQ  43 0.280000
+M  ZZQ  44 0.300000
+M  ZZQ  47 0.190000
+M  ZZQ  51 0.369000
+M  ZZQ  52 0.100000
+M  ZZQ  53 0.117000
+M  ZZQ  54 0.616000
+M  ZZQ  55 -0.340000
+M  ZZQ  56 -0.340000
+M  ZZQ  57 -0.340000
+M  ZZQ  58 -0.190000
+M  ZZQ  59 -0.838000
+M  ZZQ  60 -0.177000
+M  ZZQ  61 -0.169000
+M  ZZQ  62 -0.360000
+M  ZZQ  63 -0.360000
+M  ZZQ  64 -0.660000
+M  ZZQ  65 -0.360000
+M  ZZQ  66 -0.565000
+M  ZZQ  67 -0.570000
+M  ZZQ  68 -0.570000
+M  ZZQ  69 -0.280000
+M  ZZQ  70 -0.570000
+M  ZZQ  71 -0.570000
+M  ZZQ  72 -0.570000
+M  ZZQ  73 -0.080000
+M  END
+> <name>
+ax6m
+
+> <comment>
+n-(6-fluoro-3'-{[6-oxo-4-(trifluoromethyl)-1,dihydropyridine-3-carbonyl]amino}-4'-[(3r,5strimethylpiperazin-1-yl][1,1'-biphenyl]-3-caglycyl-3-methyl-l-valyl-(4r)-4-hydroxy-n-{(1(4-methyl-1,3-thiazol-5-yl)phenyl]ethyl}-l-p
+
+> <sel>
+a_7jtp.ax6m
+
+$$$$

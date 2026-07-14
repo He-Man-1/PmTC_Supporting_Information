@@ -1,0 +1,543 @@
+dna-encoded library (del)-enabled discovery of proximity inducing       small molecules                                                      
+  MOLSOFT 09012519422D
+
+ 67 73  0  0  1  0  0  0  0  0999 V2000
+   -1.8403    1.1361    0.0000 C   0  0  0
+   -3.0527   -0.9639    0.0000 C   0  0  0
+   -4.2652    1.1361    0.0000 C   0  0  0
+   -6.6900    1.1361    0.0000 C   0  0  0
+   -5.4776    3.2361    0.0000 C   0  0  0
+   -6.6900    5.3361    0.0000 C   0  0  0
+   -4.2652    5.3361    0.0000 C   0  0  0
+   -6.6900    6.7361    0.0000 C   0  0  0
+   -7.9025    7.4361    0.0000 C   0  0  0
+  -10.5149    9.5361    0.0000 C   0  0  0
+   -9.8149   10.7485    0.0000 C   0  0  0
+   -7.9025   -0.9639    0.0000 C   0  0  0
+   -9.1149    1.1361    0.0000 C   0  0  0
+   -9.1149   -1.6639    0.0000 C   0  0  0
+    7.9306    4.8873    0.0000 C   0  0  0
+    7.6395    3.5179    0.0000 C   0  0  0
+    6.3080    3.0853    0.0000 C   0  0  0
+    5.2676    4.0221    0.0000 C   0  0  0
+    5.5587    5.3915    0.0000 C   0  0  0
+    6.8902    5.8241    0.0000 C   0  0  0
+    4.5183    6.3282    0.0000 C   0  0  0
+    3.3857    8.2900    0.0000 C   0  0  0
+    3.1489    6.0372    0.0000 C   0  0  0
+    2.5795    4.7582    0.0000 C   0  0  0
+    8.6799    2.5811    0.0000 C   0  0  0
+    9.4292    0.2749    0.0000 C   0  0  0
+    9.1382   -1.0945    0.0000 C   0  0  2
+   10.0749   -2.1349    0.0000 C   0  0  0
+    9.3749   -3.3473    0.0000 C   0  0  2
+    8.0055   -3.0562    0.0000 C   0  0  0
+    6.6468   -0.9639    0.0000 C   0  0  0
+    5.4343   -1.6639    0.0000 C   0  0  2
+    5.4343   -3.0639    0.0000 C   0  0  0
+    6.8343   -3.0639    0.0000 C   0  0  0
+    4.0343   -3.0639    0.0000 C   0  0  0
+   -1.8403   -1.6639    0.0000 C   0  0  0
+    5.4343   -4.4639    0.0000 C   0  0  0
+   -0.6278   -0.9639    0.0000 C   0  0  0
+   -9.1149    9.5361    0.0000 C   0  0  0
+   -0.6278    0.4361    0.0000 C   0  0  0
+   -9.2612   -3.0562    0.0000 C   0  0  0
+  -10.3939   -1.0945    0.0000 C   0  0  0
+  -10.6849    0.2749    0.0000 C   0  0  0
+   -8.2208   -3.9930    0.0000 C   0  0  0
+  -12.7230   -1.9885    0.0000 C   0  0  0
+    0.5846   -1.6639    0.0000 C   0  0  0
+    1.7970   -0.9639    0.0000 C   0  0  0
+    3.0095   -1.6639    0.0000 C   0  0  0
+   -3.0527    0.4361    0.0000 N   0  0  0
+    2.4489    7.2496    0.0000 N   0  0  0
+    8.3888    1.2117    0.0000 N   0  0  0
+    7.8592   -1.6639    0.0000 N   0  0  0
+    4.2219   -0.9639    0.0000 N   0  0  0
+   -5.4776    0.4361    0.0000 N   0  3  0
+   -6.6900    2.5361    0.0000 N   0  0  0
+   -4.2652    2.5361    0.0000 N   0  0  0
+   -5.4776    4.6361    0.0000 N   0  0  0
+   -7.9025    8.8361    0.0000 N   0  0  0
+   -7.9025    0.4361    0.0000 N   0  0  0
+  -10.6306   -3.3473    0.0000 N   0  0  0
+  -11.3306   -2.1349    0.0000 N   0  0  0
+    3.0095   -3.0639    0.0000 O   0  0  0
+   10.7607    0.7076    0.0000 O   0  0  0
+    9.9444   -4.6263    0.0000 O   0  0  0
+    6.6468    0.4361    0.0000 O   0  0  0
+   -9.1149    6.7361    0.0000 O   0  0  0
+    4.6646    7.7206    0.0000 S   0  0  0
+  1 49  1
+  1 40  1
+  2 36  1
+  2 49  1
+  3 49  1
+  3 56  2
+  3 54  1
+  4 54  2
+  4 59  1
+  4 55  1
+  5 55  2
+  5 57  1
+  5 56  1
+  6 57  1
+  6  8  1
+  7 57  1
+  8  9  1
+  9 66  2
+  9 58  1
+ 10 39  1
+ 10 11  1
+ 11 39  1
+ 12 59  1
+ 12 14  1
+ 13 59  1
+ 14 41  1
+ 14 42  2
+ 15 16  2
+ 15 20  1
+ 16 25  1
+ 16 17  1
+ 17 18  2
+ 18 19  1
+ 19 20  2
+ 19 21  1
+ 21 23  2
+ 21 67  1
+ 22 67  1
+ 22 50  2
+ 23 24  1
+ 23 50  1
+ 25 51  1
+ 27 26  1  6  0
+ 26 63  2
+ 26 51  1
+ 27 52  1
+ 27 28  1
+ 29 28  1
+ 29 30  1
+ 29 64  1  1  0
+ 30 52  1
+ 32 31  1
+ 31 65  2
+ 31 52  1
+ 32 53  1
+ 32 33  1  6  0
+ 33 34  1
+ 33 35  1
+ 33 37  1
+ 36 38  1
+ 38 40  1
+ 38 46  1
+ 39 58  1
+ 41 60  2
+ 41 44  1
+ 42 43  1
+ 42 61  1
+ 45 61  1
+ 46 47  1
+ 47 48  1
+ 48 62  2
+ 48 53  1
+ 60 61  1
+M  ZZC   1 c1
+M  ZZC   2 c3
+M  ZZC   3 c41
+M  ZZC   4 c43
+M  ZZC   5 c45
+M  ZZC   6 c48
+M  ZZC   7 c49
+M  ZZC   8 c50
+M  ZZC   9 c51
+M  ZZC  10 c56
+M  ZZC  11 c57
+M  ZZC  12 c58
+M  ZZC  13 c59
+M  ZZC  14 c60
+M  ZZC  15 c11
+M  ZZC  16 c12
+M  ZZC  17 c13
+M  ZZC  18 c14
+M  ZZC  19 c15
+M  ZZC  20 c16
+M  ZZC  21 c17
+M  ZZC  22 c19
+M  ZZC  23 c21
+M  ZZC  24 c22
+M  ZZC  25 c23
+M  ZZC  26 c25
+M  ZZC  27 c26
+M  ZZC  28 c28
+M  ZZC  29 c29
+M  ZZC  30 c30
+M  ZZC  31 c33
+M  ZZC  32 c34
+M  ZZC  33 c37
+M  ZZC  34 c38
+M  ZZC  35 c39
+M  ZZC  36 c4
+M  ZZC  37 c40
+M  ZZC  38 c5
+M  ZZC  39 c54
+M  ZZC  40 c6
+M  ZZC  41 c61
+M  ZZC  42 c64
+M  ZZC  43 c65
+M  ZZC  44 c66
+M  ZZC  45 c67
+M  ZZC  46 c7
+M  ZZC  47 c8
+M  ZZC  48 c9
+M  ZZC  49 n2
+M  ZZC  50 n20
+M  ZZC  51 n24
+M  ZZC  52 n31
+M  ZZC  53 n36
+M  ZZC  54 n42
+M  ZZC  55 n44
+M  ZZC  56 n46
+M  ZZC  57 n47
+M  ZZC  58 n52
+M  ZZC  59 n55
+M  ZZC  60 n62
+M  ZZC  61 n63
+M  ZZC  62 o10
+M  ZZC  63 o27
+M  ZZC  64 o32
+M  ZZC  65 o35
+M  ZZC  66 o53
+M  ZZC  67 s18
+M  ZZA   1 c
+M  ZZA   2 c
+M  ZZA   3 c
+M  ZZA   4 c
+M  ZZA   5 c
+M  ZZA   6 c
+M  ZZA   7 c
+M  ZZA   8 c
+M  ZZA   9 c
+M  ZZA  10 c
+M  ZZA  11 c
+M  ZZA  12 c
+M  ZZA  13 c
+M  ZZA  14 c
+M  ZZA  15 c
+M  ZZA  16 c
+M  ZZA  17 c
+M  ZZA  18 c
+M  ZZA  19 c
+M  ZZA  20 c
+M  ZZA  21 c
+M  ZZA  22 c
+M  ZZA  23 c
+M  ZZA  24 c
+M  ZZA  25 c
+M  ZZA  26 c
+M  ZZA  27 c
+M  ZZA  28 c
+M  ZZA  29 c
+M  ZZA  30 c
+M  ZZA  31 c
+M  ZZA  32 c
+M  ZZA  33 c
+M  ZZA  34 c
+M  ZZA  35 c
+M  ZZA  36 c
+M  ZZA  37 c
+M  ZZA  38 c
+M  ZZA  39 c
+M  ZZA  40 c
+M  ZZA  41 c
+M  ZZA  42 c
+M  ZZA  43 c
+M  ZZA  44 c
+M  ZZA  45 c
+M  ZZA  46 c
+M  ZZA  47 c
+M  ZZA  48 c
+M  ZZA  49 c
+M  ZZA  50 c
+M  ZZA  51 c
+M  ZZA  52 c
+M  ZZA  53 c
+M  ZZA  54 c
+M  ZZA  55 c
+M  ZZA  56 c
+M  ZZA  57 c
+M  ZZA  58 c
+M  ZZA  59 c
+M  ZZA  60 c
+M  ZZA  61 c
+M  ZZA  62 c
+M  ZZA  63 c
+M  ZZA  64 c
+M  ZZA  65 c
+M  ZZA  66 c
+M  ZZA  67 c
+M  ZZO   1 1.000000
+M  ZZO   2 1.000000
+M  ZZO   3 1.000000
+M  ZZO   4 1.000000
+M  ZZO   5 1.000000
+M  ZZO   6 1.000000
+M  ZZO   7 1.000000
+M  ZZO   8 1.000000
+M  ZZO   9 1.000000
+M  ZZO  10 1.000000
+M  ZZO  11 1.000000
+M  ZZO  12 1.000000
+M  ZZO  13 1.000000
+M  ZZO  14 1.000000
+M  ZZO  15 1.000000
+M  ZZO  16 1.000000
+M  ZZO  17 1.000000
+M  ZZO  18 1.000000
+M  ZZO  19 1.000000
+M  ZZO  20 1.000000
+M  ZZO  21 1.000000
+M  ZZO  22 1.000000
+M  ZZO  23 1.000000
+M  ZZO  24 1.000000
+M  ZZO  25 1.000000
+M  ZZO  26 1.000000
+M  ZZO  27 1.000000
+M  ZZO  28 1.000000
+M  ZZO  29 1.000000
+M  ZZO  30 1.000000
+M  ZZO  31 1.000000
+M  ZZO  32 1.000000
+M  ZZO  33 1.000000
+M  ZZO  34 1.000000
+M  ZZO  35 1.000000
+M  ZZO  36 1.000000
+M  ZZO  37 1.000000
+M  ZZO  38 1.000000
+M  ZZO  39 1.000000
+M  ZZO  40 1.000000
+M  ZZO  41 1.000000
+M  ZZO  42 1.000000
+M  ZZO  43 1.000000
+M  ZZO  44 1.000000
+M  ZZO  45 1.000000
+M  ZZO  46 1.000000
+M  ZZO  47 1.000000
+M  ZZO  48 1.000000
+M  ZZO  49 1.000000
+M  ZZO  50 1.000000
+M  ZZO  51 1.000000
+M  ZZO  52 1.000000
+M  ZZO  53 1.000000
+M  ZZO  54 1.000000
+M  ZZO  55 1.000000
+M  ZZO  56 1.000000
+M  ZZO  57 1.000000
+M  ZZO  58 1.000000
+M  ZZO  59 1.000000
+M  ZZO  60 1.000000
+M  ZZO  61 1.000000
+M  ZZO  62 1.000000
+M  ZZO  63 1.000000
+M  ZZO  64 1.000000
+M  ZZO  65 1.000000
+M  ZZO  66 1.000000
+M  ZZO  67 1.000000
+M  ZZM   1 1
+M  ZZI   1 112
+M  ZZM   2 1
+M  ZZI   2 112
+M  ZZM   3 37
+M  ZZI   3 124
+M  ZZM   4 37
+M  ZZI   4 124
+M  ZZM   5 37
+M  ZZI   5 124
+M  ZZM   6 1
+M  ZZI   6 112
+M  ZZM   7 1
+M  ZZI   7 111
+M  ZZM   8 1
+M  ZZI   8 112
+M  ZZM   9 3
+M  ZZI   9 121
+M  ZZM  10 22
+M  ZZI  10 109
+M  ZZM  11 22
+M  ZZI  11 109
+M  ZZM  12 1
+M  ZZI  12 112
+M  ZZM  13 1
+M  ZZI  13 111
+M  ZZM  14 64
+M  ZZI  14 105
+M  ZZM  15 37
+M  ZZI  15 125
+M  ZZM  16 37
+M  ZZI  16 124
+M  ZZM  17 37
+M  ZZI  17 125
+M  ZZM  18 37
+M  ZZI  18 125
+M  ZZM  19 37
+M  ZZI  19 124
+M  ZZM  20 37
+M  ZZI  20 125
+M  ZZM  21 63
+M  ZZI  21 104
+M  ZZM  22 63
+M  ZZI  22 104
+M  ZZM  23 64
+M  ZZI  23 105
+M  ZZM  24 1
+M  ZZI  24 111
+M  ZZM  25 1
+M  ZZI  25 112
+M  ZZM  26 3
+M  ZZI  26 121
+M  ZZM  27 1
+M  ZZI  27 113
+M  ZZM  28 1
+M  ZZI  28 112
+M  ZZM  29 1
+M  ZZI  29 113
+M  ZZM  30 1
+M  ZZI  30 112
+M  ZZM  31 3
+M  ZZI  31 121
+M  ZZM  32 1
+M  ZZI  32 113
+M  ZZM  33 1
+M  ZZI  33 115
+M  ZZM  34 1
+M  ZZI  34 111
+M  ZZM  35 1
+M  ZZI  35 111
+M  ZZM  36 1
+M  ZZI  36 112
+M  ZZM  37 1
+M  ZZI  37 111
+M  ZZM  38 1
+M  ZZI  38 113
+M  ZZM  39 22
+M  ZZI  39 109
+M  ZZM  40 1
+M  ZZI  40 112
+M  ZZM  41 64
+M  ZZI  41 105
+M  ZZM  42 63
+M  ZZI  42 104
+M  ZZM  43 1
+M  ZZI  43 111
+M  ZZM  44 1
+M  ZZI  44 111
+M  ZZM  45 1
+M  ZZI  45 111
+M  ZZM  46 1
+M  ZZI  46 112
+M  ZZM  47 1
+M  ZZI  47 112
+M  ZZM  48 3
+M  ZZI  48 121
+M  ZZM  49 40
+M  ZZI  49 193
+M  ZZM  50 66
+M  ZZI  50 222
+M  ZZM  51 10
+M  ZZI  51 211
+M  ZZM  52 10
+M  ZZI  52 192
+M  ZZM  53 10
+M  ZZI  53 211
+M  ZZM  54 58
+M  ZZI  54 204
+M  ZZM  55 38
+M  ZZI  55 223
+M  ZZM  56 38
+M  ZZI  56 223
+M  ZZM  57 40
+M  ZZI  57 193
+M  ZZM  58 10
+M  ZZI  58 191
+M  ZZM  59 40
+M  ZZI  59 193
+M  ZZM  60 65
+M  ZZI  60 207
+M  ZZM  61 39
+M  ZZI  61 215
+M  ZZM  62 7
+M  ZZI  62 81
+M  ZZM  63 7
+M  ZZI  63 81
+M  ZZM  64 6
+M  ZZI  64 60
+M  ZZM  65 7
+M  ZZI  65 81
+M  ZZM  66 7
+M  ZZI  66 81
+M  ZZM  67 44
+M  ZZI  67 248
+M  ZZQ   1 0.369000
+M  ZZQ   2 0.369000
+M  ZZQ   3 0.771000
+M  ZZQ   4 0.771000
+M  ZZQ   5 0.720000
+M  ZZQ   6 0.369000
+M  ZZQ   7 0.369000
+M  ZZQ   8 0.061000
+M  ZZQ   9 0.569000
+M  ZZQ  12 0.550000
+M  ZZQ  13 0.369000
+M  ZZQ  14 -0.181000
+M  ZZQ  16 -0.144000
+M  ZZQ  19 0.053000
+M  ZZQ  21 -0.013000
+M  ZZQ  22 0.378000
+M  ZZQ  23 0.046000
+M  ZZQ  24 0.181000
+M  ZZQ  25 0.444000
+M  ZZQ  26 0.569000
+M  ZZQ  27 0.361000
+M  ZZQ  29 0.280000
+M  ZZQ  30 0.300000
+M  ZZQ  31 0.569000
+M  ZZQ  32 0.361000
+M  ZZQ  39 0.149000
+M  ZZQ  41 0.108000
+M  ZZQ  42 -0.332000
+M  ZZQ  43 0.180000
+M  ZZQ  44 0.181000
+M  ZZQ  45 0.256000
+M  ZZQ  47 0.061000
+M  ZZQ  48 0.569000
+M  ZZQ  49 -0.838000
+M  ZZQ  50 -0.565000
+M  ZZQ  51 -0.360000
+M  ZZQ  52 -0.660000
+M  ZZQ  53 -0.360000
+M  ZZQ  54 0.278000
+M  ZZQ  55 -0.620000
+M  ZZQ  56 -0.620000
+M  ZZQ  57 -0.838000
+M  ZZQ  58 -0.209000
+M  ZZQ  59 -0.838000
+M  ZZQ  60 -0.707000
+M  ZZQ  61 0.314000
+M  ZZQ  62 -0.570000
+M  ZZQ  63 -0.570000
+M  ZZQ  64 -0.280000
+M  ZZQ  65 -0.570000
+M  ZZQ  66 -0.570000
+M  ZZQ  67 -0.080000
+M  CHG  1  54   1
+M  END
+> <name>
+x5k
+
+> <comment>
+n-{3-[1-(4-{[3-(cyclopropylamino)-3-oxopropylamino}-6-{methyl[(1,3,5-trimethyl-1h-pyrazolmethyl]amino}-1,3,5-triazin-2-yl)piperidin-4yl]propanoyl}-3-methyl-l-valyl-(4r)-4-hydrox(4-methyl-1,3-thiazol-5-yl)phenyl]methyl}-l-prolinamide
+
+> <sel>
+a_8ewv.x5k
+
+$$$$
